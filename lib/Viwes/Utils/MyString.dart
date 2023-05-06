@@ -27,3 +27,13 @@ class MyString {
   static String cemeraT = 'Camera';
   static String galleryT = 'Gallery';
 }
+
+class ProfileStrings {
+  static const fillYourProfile = 'Fill Your Profile';
+  static const fullName = 'Full Name';
+  static const nickName = 'Nickname';
+  static const dateOfBirth = 'Date of Birth';
+  static const email = 'Email';
+  static const phoneNumber = 'Phone Number';
+  static const gender = 'Gender';
+}
